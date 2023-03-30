@@ -1,0 +1,3 @@
+This code declares an array of integers using the int arr[MAX_SIZE] syntax, where MAX_SIZE is a constant defining the maximum size of the array. The code then prompts the user to enter the number of elements they want to store in the array, followed by the elements themselves. It then performs several operations on the array, such as finding the sum, maximum, and minimum element, as well as sorting the array in ascending order using the bubble sort algorithm.
+
+This code serves as a good starting point for understanding how arrays can be used as data structures in C, and how different operations can be performed on them.
